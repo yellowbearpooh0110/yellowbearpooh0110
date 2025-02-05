@@ -95,14 +95,6 @@ hobbies: ["Chess", "LEGO building", "Swimming", "Sketching"]
     <img src="https://skillicons.dev/icons?i=github" title="Github"/>
     <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
   </div>
-  
-#### 🎨Interests:
-<p>
-  <code><img title="Lego" height="60" src="images/lego.png"></code>
-  <code><img title="Chess" height="60" src="images/chess.png"></code>
-</p>
-<hr>
-
 
 
 <div align="center">
